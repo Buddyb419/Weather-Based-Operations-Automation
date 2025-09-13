@@ -16,12 +16,11 @@ This project provides an intelligent automation that acts as a daily operations 
 
 <!-- 
 ********************************************************************************
-PASTE SCREENSHOT HERE:
-Take a screenshot of your workflow diagram from your "Weather Automation" presentation.
-Then, replace the line below with your image link.
+<img width="534" height="726" alt="image" src="https://github.com/user-attachments/assets/cb148073-bbd7-4c38-aded-bc2399e8dc3b" />
+
 ********************************************************************************
 -->
-![Workflow Diagram for Weather Automation](YOUR_IMAGE_LINK_HERE)
+![Workflow Diagram for Weather Automation][(https://github.com/user-attachments/assets/cb148073-bbd7-4c38-aded-bc2399e8dc3b)]
 
 ## Key Features & Results
 -   **Automated Data Fetching:** Utilized Webhooks to automatically fetch real-time weather data from an external API, providing a reliable data source for decision-making.
