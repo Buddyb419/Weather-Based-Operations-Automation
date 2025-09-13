@@ -20,7 +20,7 @@ This project provides an intelligent automation that acts as a daily operations 
 
 ********************************************************************************
 -->
-![Workflow Diagram for Weather Automation][(https://github.com/user-attachments/assets/cb148073-bbd7-4c38-aded-bc2399e8dc3b)]
+![Workflow Diagram for Weather Automation][https://github.com/user-attachments/assets/cb148073-bbd7-4c38-aded-bc2399e8dc3b]
 
 ## Key Features & Results
 -   **Automated Data Fetching:** Utilized Webhooks to automatically fetch real-time weather data from an external API, providing a reliable data source for decision-making.
